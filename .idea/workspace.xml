@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bf5b90d-b11e-4c35-9c13-e6965d00647d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs-4800-hw-5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/media/ImageMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/media/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/media/MediaType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/media/TextMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/media/VideoMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/message/ImageMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/message/MessageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/message/TextMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/message/VideoMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/messaging_app/FacebookMessagingApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/messaging_app/MessagingApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/messaging_app/TelegramMessagingApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridge/messaging_app/WhatsAppMessagingApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/FoodItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Fries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/HotDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/IFoodItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/toppings/KetchupDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/toppings/MayoDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/toppings/ToppingDecorator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2e7fxeNp2FCtdSrYAKmNQluNpSv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Driver.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="bridge" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-4caba194b151-5bc9ecd2" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bf5b90d-b11e-4c35-9c13-e6965d00647d" name="Changes" comment="" />
+      <created>1711260786282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711260786282</updated>
+    </task>
+    <servers />
+  </component>
+</project>
