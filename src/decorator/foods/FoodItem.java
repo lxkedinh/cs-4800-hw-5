@@ -1,9 +1,8 @@
-package decorator;
-
-import java.util.List;
+package decorator.foods;
 
 public abstract class FoodItem implements IFoodItem {
     protected double basePrice;
+    protected String foodName;
 
     protected FoodItem() {}
 
@@ -14,5 +13,10 @@ public abstract class FoodItem implements IFoodItem {
     @Override
     public double getTotalPrice() {
         return basePrice;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("%-20s: $%.2f\n", foodName, basePrice);
     }
 }
